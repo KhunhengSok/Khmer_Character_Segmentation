@@ -19,8 +19,6 @@ In these image, each character is highlighted with slightly different to demonst
      style="float: left; margin-right: 10px;" />
 
 ---
----
-<br/>
 
 **Input**
 <br/>
