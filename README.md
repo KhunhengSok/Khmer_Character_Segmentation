@@ -6,25 +6,30 @@ In these image, each character is highlighted with slightly different to demonst
 
 *To see more examples, go to lines/<file_name>, the processed image is started with "extracted_<line_number>.png"*
 
-**Input**
+**Input** 
+<br/>
 <img src="img/original 1.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 **Output**
+<br/>
 <img src="img/extracted 1.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 ---
 ---
+<br/>
 
 **Input**
+<br/>
 <img src="img/original 2.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 **Output**
+<br/>
 <img src="img/extracted 2.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />  
